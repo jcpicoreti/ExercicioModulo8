@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Exercicio Modulo 8</string>
     <string name="trocar_imagem">Trocar imagem</string>
+    <string name="digite_o_texto">Digite o texto</string>
 </resources>
